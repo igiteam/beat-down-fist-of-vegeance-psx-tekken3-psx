@@ -1,3 +1,29 @@
+# beat-down-fist-of-vegeance-psx-tekken3-psx
+## Beat Down Fist of Vegeance PSX - Tekken3 PSX
+A remake of Tekken3 rebuilt using the Beat Down: Fist of Vengeance  engine and gameplay mechanics. Tekken 3's original storyline as a story-driven 3D beat-'em-up, combining Tekken's iconic 1v1 fighting system with Beat Down's free-roaming city exploration, street fights, gang encounters, and environmental interactions.
+
+## Github Treeview
+[https://treegit.macosxjs.com/?url=igiteam/the-conduit-wii-area51-2005](https://treegit.macosxjs.com/?url=igiteam/the-conduit-wii-area51-2005)
+
+## Github Tree Api Direct JSON
+[https://api.github.com/repos/igiteam/the-conduit-wii-area51-2005/git/trees/main?recursive=1](https://api.github.com/repos/igiteam/the-conduit-wii-area51-2005/git/trees/main?recursive=1)
+
+## Base Gameplay
+[![Tekken 3](https://img.youtube.com/vi/hherXAQ6ljo/maxresdefault.jpg)](https://ytembed.macosxjs.com/?aGhlclhBUTZsam8)
+
+[![Beat Down: Fists of Vengeance PCSX2](https://img.youtube.com/vi/BqsphNxSIbM/maxresdefault.jpg)](https://www.youtube.com/watch?v=BqsphNxSIbM)
+
+
+## WS11WineCX20.0.4 (macOS Big Sur 32-bit)
+
+[WS11WineCX20.0.4.tar.7z](https://github.com/vitor251093/porting-kit-engines/releases/download/wineskin/WS11WineCX20.0.4.tar.7z)
+
+[![Wine Windows games on macOS](https://raw.githubusercontent.com/igiteam/igi1-macbook-3d-workstation/refs/heads/main/wine-engine-config.png)](https://github.com/igiteam/wine_engines)
+
+
+## Reference Links
+
+
 # Tekken 3 Recompiled
 
 ## v0.1.4 Easy Setup
@@ -209,3 +235,38 @@ are authoritative. `framework_pins.txt` is an optional scaffold snapshot;
 release CI logs SHAs with `record_pins.sh` but builds whatever the gitlinks
 resolve to. Bump submodules deliberately — do not float on `main`/`master`
 in release CI.
+
+
+## Dev Environment
+
+**Official White Wii Remote With Nunchuk — Tested And Working — £14.99**
+[https://www.ebay.co.uk/itm/800847189353](https://www.ebay.co.uk/itm/800847189353)
+
+**Infrared Sensor Bar USB for Wii Emulator Remote Motion Detection Setup — £6.69**
+[https://www.ebay.co.uk/itm/227423830875](https://www.ebay.co.uk/itm/227423830875)
+
+**Apple MacBook Pro Retina 15in (2014) i7 2.8GHz 16GB 1TB SSD GT 750M — £120.30**
+[https://www.ebay.co.uk/itm/800844561513](https://www.ebay.co.uk/itm/800844561513)
+
+**WS11WineCX20.0.4 (Wine engine)**
+[https://igiteam.github.io/wine_engines/](https://igiteam.github.io/wine_engines/)
+
+**Official Genuine Sony PS3 PlayStation 3 DualShock 3 Wireless Controller Black — £19.99**
+[https://www.ebay.co.uk/itm/840031043465](https://www.ebay.co.uk/itm/840031043465)
+
+**Amazon Basics 4K HDMI Cable 3m — 18Gbps High Speed with Ethernet, 4K@60Hz, 2160p — £8.44**
+[https://www.ebay.co.uk/itm/327352257557](https://www.ebay.co.uk/itm/327352257557)
+
+**wiimote_nunchuk_macosx**
+[https://github.com/igiteam/wiimote-nunchuk](https://github.com/igiteam/wiimote-nunchuk)
+
+**xbox360_input_gui_py**
+[https://github.com/igiteam/xbox360_input_gui_py](https://github.com/igiteam/xbox360_input_gui_py)
+
+**logitec_mx_mouse_3_macos**
+[https://github.com/igiteam/logitec_mx_mouse_3_macos](https://github.com/igiteam/logitec_mx_mouse_3_macos)
+
+**igi1-macbook-3d-workstation**
+[https://github.com/igiteam/igi1-macbook-3d-workstation](https://github.com/igiteam/igi1-macbook-3d-workstation)
+
+---
