@@ -28,6 +28,13 @@ A remake of Tekken3 rebuilt using the Beat Down: Fist of Vengeance  engine and g
 
 
 ## Reference Links
+[https://vimm.net/vault/50729](https://vimm.net/vault/50729)
+
+[https://vimm.net/vault/66476](https://vimm.net/vault/66476)
+
+[![Beat Down Fist of Vegeance PSX](https://raw.githubusercontent.com/igiteam/beat-down-fist-of-vegeance-psx-tekken3-psx/main/beat-down-fist-of-vegeance.png)](https://vimm.net/vault/66476)
+
+[![Tekken3 PSX](https://raw.githubusercontent.com/igiteam/beat-down-fist-of-vegeance-psx-tekken3-psx/main/tekken-3.png)](https://vimm.net/vault/50729)
 
 
 # Tekken 3 Recompiled
