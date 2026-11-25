@@ -15,9 +15,9 @@ A remake of Tekken3 rebuilt using the Beat Down: Fist of Vengeance  engine and g
 
 [![Tekken 3 Arcade Edition Intro 1 - HD](https://img.youtube.com/vi/9OViNqWFF6w/maxresdefault.jpg)](https://ytembed.macosxjs.com/?OU9WaU5xV0ZGNnc)
 
-[![Tekken 3 Movie Theatre Unlocked PS1](https://img.youtube.com/vi/Lbw2V4LB9O4/maxresdefault.jpg)](https://ytembed.macosxjs.com/?TGJ3MlY0TEI5TzQ)
+[![Tekken 3 Movie Theatre Unlocked PS1](https://img.youtube.com/vi/Lbw2V4LB9O4/hqdefault.jpg)](https://ytembed.macosxjs.com/?TGJ3MlY0TEI5TzQ)
 
-[![Tekken 3 - All Endings](https://img.youtube.com/vi/qchrMWQP2Ss/maxresdefault.jpg)](https://ytembed.macosxjs.com/?cWNock1XUVAyU3M)
+[![Tekken 3 - All Endings](https://img.youtube.com/vi/qchrMWQP2Ss/hqdefault.jpg)](https://ytembed.macosxjs.com/?cWNock1XUVAyU3M)
 
 
 ## WS11WineCX20.0.4 (macOS Big Sur 32-bit)
