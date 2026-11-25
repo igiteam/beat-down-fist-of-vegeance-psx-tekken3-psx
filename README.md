@@ -1,5 +1,5 @@
 # beat-down-fist-of-vegeance-psx-tekken3-psx
-## Beat Down Fist of Vegeance PSX - Tekken3 PSX
+## Beat Down Fist of Vegeance PSX - Tekken3 PSX Remake
 A remake of Tekken3 rebuilt using the Beat Down: Fist of Vengeance  engine and gameplay mechanics. Tekken 3's original storyline as a story-driven 3D beat-'em-up, combining Tekken's iconic 1v1 fighting system with Beat Down's free-roaming city exploration, street fights, gang encounters, and environmental interactions.
 
 ## Github Treeview
